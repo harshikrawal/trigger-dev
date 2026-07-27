@@ -69,16 +69,4 @@ Use our SDK to write tasks in your codebase. There's no infrastructure to manage
 
 We support `Development`, `Staging`, `Preview`, and `Production` environments, allowing you to test your tasks before deploying them to production.
 
-## Full visibility of every job run
 
-View every task in every run so you can tell exactly what happened. We provide a full trace view of every task run so you can see what happened at every step.
-
-# Getting started
-
-The quickest way to get started is to create an account and project in our web app, and follow the instructions in the onboarding. Build and deploy your first task in minutes.
-
-### Useful links:
-
-- Quick start - get up and running in minutes
-- How it works - understand how Trigger.dev works under the hood
-- Guides and examples - walk-through guides and code examples for popular frameworks and use cases
